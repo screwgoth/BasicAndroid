@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_message">Edit a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="title_activity_spinners">Spinners</string>
+    <string name="type_command">Type a Command</string>
+    <string name="button_name">Try Command</string>
+    <string name="invalid">invalid</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="intro">Intro</string>
+    <string name="intro_hint">Enter Intro</string>
+    <string name="outro">Outro</string>
+    <string name="outro_hint">Enter Outro</string>
+    <string name="stupid_things">Stupid Things</string>
+    <string name="stupid_things_hint">Enter Stupid Things</string>
+    <string name="hateful_actions">Hateful Actions</string>
+    <string name="hateful_actions_hint">Enter Hateful Actions</string>
+    <string name="button_email">Send Email</string>
+
+</resources>
